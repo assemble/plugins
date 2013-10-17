@@ -10,13 +10,13 @@ This collection contains all of the assemble-contrib plugins.  We have made it a
 A listing of each plugin and the current version included in this package is listed below.
                                               
 
-## [assemble-contrib-sitemap](https://github.com/assemble/assemble-contrib-sitemap) [![NPM version](https://badge.fury.io/js/plugins.png)](http://badge.fury.io/js/plugins)
+## [assemble-contrib-sitemap](https://github.com/assemble/assemble-contrib-sitemap) [![NPM version](https://badge.fury.io/js/assemble-contrib-sitemap.png)](http://badge.fury.io/js/assemble-contrib-sitemap)
 > Sitemap generator plugin for Assemble    
 
-## [assemble-contrib-rss](https://github.com/assemble/assemble-contrib-rss) [![NPM version](https://badge.fury.io/js/plugins.png)](http://badge.fury.io/js/plugins)
+## [assemble-contrib-rss](https://github.com/assemble/assemble-contrib-rss) [![NPM version](https://badge.fury.io/js/assemble-contrib-rss.png)](http://badge.fury.io/js/assemble-contrib-rss)
 > Nothing to see yet. This won't be published until it's finished.  
 
-## [assemble-contrib-contextual](https://github.com/assemble/assemble-contrib-contextual) [![NPM version](https://badge.fury.io/js/plugins.png)](http://badge.fury.io/js/plugins)
+## [assemble-contrib-contextual](https://github.com/assemble/assemble-contrib-contextual) [![NPM version](https://badge.fury.io/js/assemble-contrib-contextual.png)](http://badge.fury.io/js/assemble-contrib-contextual)
 > Generates a JSON file containing the context of each page. Basic plugin to help see what's happening in the build.    
 
 To update this list, from the root of the project run `node docs/repos && grunt`.

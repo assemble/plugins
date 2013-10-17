@@ -1,0 +1,33 @@
+{
+  "name": "plugins",
+  "description": "Collection of Assemble plugins maintained by the Assemble core team.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/assemble/plugins",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/assemble"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assemble/plugins.git"
+  },
+  "bugs": {
+    "url": "https://github.com/assemble/plugins/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/assemble/plugins/blob/master/LICENSE-MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-readme": "~0.1.0"
+  },
+  "keywords": [
+    "grunt",
+    "assemble",
+    "assembleplugin",
+    "assemble plugin"
+  ]
+}

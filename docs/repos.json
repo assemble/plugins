@@ -1,0 +1,269 @@
+{
+  "repos": [
+    {
+      "name": "assemble",
+      "description": "Static site generator for Grunt.js, Yeoman and Node.js. Used by H5BP/Effeckt, Topcoat, Web Experience Toolkit, and hundreds of other projects to build sites, themes, components, documentation, blogs and gh-pages.",
+      "url": "https://github.com/assemble/assemble"
+    },
+    {
+      "name": "assemble-internal",
+      "description": "Internal tools and tasks for managing Assemble projects.",
+      "url": "https://github.com/assemble/assemble-internal"
+    },
+    {
+      "name": "assemble-less",
+      "description": "Grunt task for compiling LESS to CSS. ",
+      "url": "https://github.com/assemble/assemble-less"
+    },
+    {
+      "name": "handlebars-helpers",
+      "description": "Library of 120+ handlebars helpers for any project: Assemble, Ghost, YUI... This project is active and supported, we love contributors and appreciate stars.",
+      "url": "https://github.com/assemble/handlebars-helpers"
+    },
+    {
+      "name": "boilerplates",
+      "description": "A bunch of example projects to help you learn how to use Assemble.",
+      "url": "https://github.com/assemble/boilerplates"
+    },
+    {
+      "name": "less-tests",
+      "description": "Test suite for LESS.js",
+      "url": "https://github.com/assemble/less-tests"
+    },
+    {
+      "name": "boilerplate-site",
+      "description": "Demonstrates how to use Assemble to build a site. Includes layouts, pages, partials, and markdown content.",
+      "url": "https://github.com/assemble/boilerplate-site"
+    },
+    {
+      "name": "grunt-init-assemble",
+      "description": "Grunt init template for Assemble, the static site generator built on Grunt.js. Kickstart new Assemble projects in just a few seconds, including templates, data, layouts, and a theme.",
+      "url": "https://github.com/assemble/grunt-init-assemble"
+    },
+    {
+      "name": "generator-assemble",
+      "description": "Yeoman generator for Assemble, the static site generator built on Grunt.js. Kickstart new Assemble projects in just a few seconds, including templates, data, layouts, and a theme.",
+      "url": "https://github.com/assemble/generator-assemble"
+    },
+    {
+      "name": "assemble-utils",
+      "description": "Assemble utilities",
+      "url": "https://github.com/assemble/assemble-utils"
+    },
+    {
+      "name": "task-manifest",
+      "description": "Task Manifests are a convention for defining paths for files to be consumed by a build process. More to come...",
+      "url": "https://github.com/assemble/task-manifest"
+    },
+    {
+      "name": "boilerplate-sitemap",
+      "description": "Generate a sitemap with Assemble.",
+      "url": "https://github.com/assemble/boilerplate-sitemap"
+    },
+    {
+      "name": "assemble-package-manager",
+      "description": "Provides utilities for loading packages to work with their file configurations",
+      "url": "https://github.com/assemble/assemble-package-manager"
+    },
+    {
+      "name": "assemble-manifest",
+      "description": "Proof of concept to generate JSON and/or YAML manifest files from given source files or directories.",
+      "url": "https://github.com/assemble/assemble-manifest"
+    },
+    {
+      "name": "grunt-github-api",
+      "description": "Grunt plugin used to query the Github API and save the returned JSON files locally.",
+      "url": "https://github.com/assemble/grunt-github-api"
+    },
+    {
+      "name": "assemble-handlebars",
+      "description": "Assemble engine plugin for Handlebars templates",
+      "url": "https://github.com/assemble/assemble-handlebars"
+    },
+    {
+      "name": "assemble-swig",
+      "description": "Assemble engine plugin for swig templates.",
+      "url": "https://github.com/assemble/assemble-swig"
+    },
+    {
+      "name": "handlebars-helpers-examples",
+      "description": "Shows how to use helpers from helper-lib with Assemble.",
+      "url": "https://github.com/assemble/handlebars-helpers-examples"
+    },
+    {
+      "name": "glob-object",
+      "description": "Globbing for objects and properties.",
+      "url": "https://github.com/assemble/glob-object"
+    },
+    {
+      "name": "gruntjs.com",
+      "description": "Grunt's Website",
+      "url": "https://github.com/assemble/gruntjs.com"
+    },
+    {
+      "name": "grunt-assemble",
+      "description": "Moved to https://github.com/assemble/assemble",
+      "url": "https://github.com/assemble/grunt-assemble"
+    },
+    {
+      "name": "boilerplate-markdown",
+      "description": "Use Assemble to generate HTML pages from markdown content. Useful for wikis, gh-pages, documentation and blogs or sites with markdown posts.",
+      "url": "https://github.com/assemble/boilerplate-markdown"
+    },
+    {
+      "name": "assemble-docs",
+      "description": "Documentation for Assemble and related projects.",
+      "url": "https://github.com/assemble/assemble-docs"
+    },
+    {
+      "name": "handlebars-helper-momentjs",
+      "description": "Combines the powers of Assemble, Handlebars.js and Moment.js into a great helper to master time.",
+      "url": "https://github.com/assemble/handlebars-helper-momentjs"
+    },
+    {
+      "name": "grunt-init-helper",
+      "description": "Grunt init template for creating Assemble helpers.",
+      "url": "https://github.com/assemble/grunt-init-helper"
+    },
+    {
+      "name": "lodash-mixins",
+      "description": "Collection of mixins for Underscore or Lo-Dash. This project is active and supported, we love contributors and appreciate watchers.",
+      "url": "https://github.com/assemble/lodash-mixins"
+    },
+    {
+      "name": "boilerplate-gist-blog",
+      "description": "Use Assemble to create a blog from GitHub Gists.",
+      "url": "https://github.com/assemble/boilerplate-gist-blog"
+    },
+    {
+      "name": "grunt-convert",
+      "description": "Grunt task to convert to or from JSON, YAML, XML, PLIST or CSV.",
+      "url": "https://github.com/assemble/grunt-convert"
+    },
+    {
+      "name": "grunt-init-ghpages",
+      "description": "Quickly build gh-pages documentation from a project README using Grunt.js and Assemble, a Node.js alternative to Jekyll.",
+      "url": "https://github.com/assemble/grunt-init-ghpages"
+    },
+    {
+      "name": "grunt-data",
+      "description": "Grunt plugin for manipulating data.",
+      "url": "https://github.com/assemble/grunt-data"
+    },
+    {
+      "name": "assemble-liquid",
+      "description": "Assemble engine plugin for LiquidNode templates http://assemble.io",
+      "url": "https://github.com/assemble/assemble-liquid"
+    },
+    {
+      "name": "grunt-metadata",
+      "description": "",
+      "url": "https://github.com/assemble/grunt-metadata"
+    },
+    {
+      "name": "grunt-firebase",
+      "description": "Grunt task for updating firebase data.",
+      "url": "https://github.com/assemble/grunt-firebase"
+    },
+    {
+      "name": "boilerplate-bootstrap",
+      "description": "Build Bootstrap with Assemble instead of Jekyll. ",
+      "url": "https://github.com/assemble/boilerplate-bootstrap"
+    },
+    {
+      "name": "boilerplate-h5bp",
+      "description": "Assemble + HTML5 Boilerplate. ",
+      "url": "https://github.com/assemble/boilerplate-h5bp"
+    },
+    {
+      "name": "boilerplate-swig",
+      "description": "Example of using swig templates with Assemble.",
+      "url": "https://github.com/assemble/boilerplate-swig"
+    },
+    {
+      "name": "assemble-yaml",
+      "description": "Utility for extracting and converting YAML Front Matter from files.",
+      "url": "https://github.com/assemble/assemble-yaml"
+    },
+    {
+      "name": "assemble-front-matter",
+      "description": "Utilities for extracting Front Matter from source files.",
+      "url": "https://github.com/assemble/assemble-front-matter"
+    },
+    {
+      "name": "refactor-planning",
+      "description": "Temporary repo to plan the refactoring of Assemble. if you use Assemble and have opinions about this, please add your voice to the issues. ",
+      "url": "https://github.com/assemble/refactor-planning"
+    },
+    {
+      "name": "buttons",
+      "description": "Sooo many buttons... is this really necessary?! In reality this project has little to do with buttons. It's an exercise in separation of concerns regarding structure, style, content and data.",
+      "url": "https://github.com/assemble/buttons"
+    },
+    {
+      "name": "yfm",
+      "description": "Helpers and examples for extracting, parsing, and passing context from YAML front matter into your templates. Useful if you need custom programming beyond what Assemble offers by default.",
+      "url": "https://github.com/assemble/yfm"
+    },
+    {
+      "name": "metadata",
+      "description": "Utils for working with document metadata.",
+      "url": "https://github.com/assemble/metadata"
+    },
+    {
+      "name": "grunt-init-basic",
+      "description": "grunt-init template for a very basic project. includes nodeunit tests, jshint, watch, clean, and assemble for converting readme to a simple gh-pages index page.",
+      "url": "https://github.com/assemble/grunt-init-basic"
+    },
+    {
+      "name": "grunt-github-api-example",
+      "description": "This is an example repository for:",
+      "url": "https://github.com/assemble/grunt-github-api-example"
+    },
+    {
+      "name": "swig-extensions",
+      "description": "A growing collection of tags and filters for Swig Templates.",
+      "url": "https://github.com/assemble/swig-extensions"
+    },
+    {
+      "name": "grunt-readme",
+      "description": "Generate your README from a template. Fast, very little config, and if you already use Grunt it's a no-brainer.",
+      "url": "https://github.com/assemble/grunt-readme"
+    },
+    {
+      "name": "assemble-contrib-sitemap",
+      "description": "Sitemap generator plugin for Assemble",
+      "url": "https://github.com/assemble/assemble-contrib-sitemap"
+    },
+    {
+      "name": "permalinks",
+      "description": "Permalinks plugin for Assemble, the static site generator for Grunt.js and Yeoman. This plugin enables powerful and configurable URI replacement patterns, presets, uses Moment.js for parsing dates, and much more.",
+      "url": "https://github.com/assemble/permalinks"
+    },
+    {
+      "name": "grunt-init-assemble-plugin",
+      "description": "Generate a plugin for Assemble.",
+      "url": "https://github.com/assemble/grunt-init-assemble-plugin"
+    },
+    {
+      "name": "assemble-contrib-rss",
+      "description": "Nothing to see yet. This won't be published until it's finished.",
+      "url": "https://github.com/assemble/assemble-contrib-rss"
+    },
+    {
+      "name": "assemble-contrib-contextual",
+      "description": "Generates a JSON file containing the context of each page. Basic plugin to help see what's happening in the build.",
+      "url": "https://github.com/assemble/assemble-contrib-contextual"
+    },
+    {
+      "name": "example-layout-helpers",
+      "description": "An example using the layout helpers",
+      "url": "https://github.com/assemble/example-layout-helpers"
+    },
+    {
+      "name": "plugins",
+      "description": "Collection of plugins maintained by the Assemble core team.",
+      "url": "https://github.com/assemble/plugins"
+    }
+  ]
+}

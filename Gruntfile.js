@@ -13,24 +13,12 @@ module.exports = function(grunt) {
   grunt.initConfig({
 
     /**
-     * Generate an up-to-date list of
-     * Assemble's GitHub repos
-     */
-    github: {
-      assemble: {
-        src: ['/repos?page=1&per_page=100'],
-        dest: 'docs/repos.json'
-      }
-    },
-
-
-    /**
      * Extend context for templates
      * with repos.json
      */
     readme: {
       options: {
-        metadata: ['<%= github.assemble.dest %>']
+        metadata: ['docs/repos.json']
       }
     }
   });

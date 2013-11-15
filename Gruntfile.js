@@ -13,6 +13,21 @@ module.exports = function(grunt) {
   grunt.initConfig({
 
     /**
+     * Pull down a list of repos from Github.
+     * (bundled with the readme task)
+     */
+    repos: {
+      assemble: {
+        options: {
+          path: '/orgs/assemble/'
+        },
+        files: {
+          'docs/repos.json': ['repos?page=1&per_page=100']
+        }
+      }
+    },
+
+    /**
      * Extend context for templates
      * with repos.json
      */
@@ -26,6 +41,9 @@ module.exports = function(grunt) {
   // Load npm plugins to provide necessary tasks.
   grunt.loadTasks('tasks');
   grunt.loadNpmTasks('grunt-readme');
+
+  // Refresh the list of repos, build readme.
+  grunt.registerTask('update', ['repos', 'readme']);
 
   // Default tasks to be run.
   grunt.registerTask('default', ['readme']);

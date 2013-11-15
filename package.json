@@ -22,7 +22,7 @@
   ],
   "devDependencies": {
     "grunt": "~0.4.1",
-    "grunt-readme": "~0.1.0"
+    "grunt-readme": "~0.2.5"
   },
   "keywords": [
     "grunt",

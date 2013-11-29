@@ -4,9 +4,19 @@
   "version": "0.1.1",
   "homepage": "https://github.com/assemble/plugins",
   "author": {
-    "name": "Jon Schlinkert",
+    "name": "Assemble",
     "url": "https://github.com/assemble"
   },
+  "contributors": [
+    {
+      "name": "Jon Schlinkert",
+      "url": "https://github.com/jonschlinkert"
+    },
+    {
+      "name": "Brian Woodward",
+      "url": "https://github.com/doowb"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/assemble/plugins.git"
@@ -21,11 +31,23 @@
     }
   ],
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-readme": "~0.2.5"
+    "grunt": "~0.4.2",
+    "grunt-readme": "~0.4.0",
+    "grunt-repos": "~0.1.2"
+  },
+  "peerDependencies": {
+    "assemble-contrib-anchors": "~0.1.1",
+    "assemble-contrib-contextual": "~0.1.2",
+    "assemble-contrib-decompress": "~0.1.0",
+    "assemble-contrib-download": "~0.1.0",
+    "assemble-contrib-lunr": "0.0.2",
+    "assemble-contrib-markdown": "~0.1.0",
+    "assemble-contrib-permalinks": "~0.3.0",
+    "assemble-contrib-sitemap": "~0.1.5",
+    "assemble-contrib-toc": "~0.1.2",
+    "assemble-contrib-wordcount": "~0.1.0"
   },
   "keywords": [
-    "grunt",
     "assemble",
     "assembleplugin",
     "assemble plugin"

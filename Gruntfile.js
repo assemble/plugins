@@ -17,9 +17,11 @@ module.exports = function(grunt) {
      * (bundled with the readme task)
      */
     repos: {
-      assemble: {
+      plugins: {
         options: {
-          path: '/orgs/assemble/'
+          username: 'assemble',
+          include: ['contrib'],
+          exclude: ['example', 'rss']
         },
         files: {
           'docs/repos.json': ['repos?page=1&per_page=100']
@@ -41,6 +43,7 @@ module.exports = function(grunt) {
   // Load npm plugins to provide necessary tasks.
   grunt.loadTasks('tasks');
   grunt.loadNpmTasks('grunt-readme');
+  grunt.loadNpmTasks('grunt-repos');
 
   // Refresh the list of repos, build readme.
   grunt.registerTask('update', ['repos', 'readme']);
